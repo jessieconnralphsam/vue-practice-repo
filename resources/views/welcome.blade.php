@@ -19,6 +19,6 @@
         <div id="app">
             <home-component></home-component>
         </div>
-        @vite('resources/js/components/try.js')
+        @vite('resources/js/components/work/try.js')
     </body>
 </html>
