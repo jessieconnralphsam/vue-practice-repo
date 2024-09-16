@@ -14,7 +14,8 @@
               </div>
             </div>
             <div>
-              <h2 class="card-title">Add New Work</h2>
+              <h1>neac job portal sample</h1>
+              <h2 class="card-title">Add New Neac Work</h2>
               <p class="text-sm opacity-70">Enter the details of your new work item.</p>
             </div>
           </div>

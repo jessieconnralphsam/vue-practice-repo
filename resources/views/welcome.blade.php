@@ -7,9 +7,9 @@
         <title>Laravel</title>
     </head>
     <body>
-        <div id="app">
-            <home-component></home-component>
+        <div id="practice">
+            <practice-component></practice-component>
         </div>
-        @vite('resources/js/components/work/try.js')
+        @vite('resources/js/components/practice/practice.js')
     </body>
 </html>
